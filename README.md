@@ -41,6 +41,6 @@ After sourcing your virtual environment, you can use pip to install the requirem
 ## Running the app
 Once all required packages have finished installing and you have sourced your key, you will be ready to run the application locally using:
 ```
-(venv) $ python server.py
+(venv) $ python main.py
 ```
 Visit localhost:5000 in the browser of your choice to make weather queries.
